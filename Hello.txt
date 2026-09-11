@@ -1,3 +1,5 @@
 皆さん勉強のがすきです。
 
 千田さん勉強が大好きです。
+
+I am from Git repository.
