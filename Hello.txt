@@ -3,3 +3,5 @@
 千田さん勉強が大好きです。
 
 I am from Git repository.
+
+My name is Senda Yuto.
